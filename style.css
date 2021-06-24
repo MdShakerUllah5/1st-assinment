@@ -1,0 +1,55 @@
+h1{
+    font-size: 50px;
+}
+#class{
+     color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+#im{
+    color: yellow;
+}
+h3{
+    text-align: center;
+}
+.love img{
+    width: 40%;
+}
+.blog{
+    box-shadow: 10px 10px 50px gainsboro;
+    border-radius: 5%;
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+    background-color: green;
+
+}
+#wh{
+    background-color: ivory;
+}
+#love-me{
+    background-color:lightsalmon;
+    border-radius: 10px;
+   width: 35%;
+   margin-left: 30%;
+}
